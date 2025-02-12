@@ -1,4 +1,3 @@
-# Welcome to the Labs
-We are online   
-https://zenetralabs.com    
-https://oss.zenetralabs.com
+# Own your cloud
+We will be online soon  
+https://resurface.cloud    
